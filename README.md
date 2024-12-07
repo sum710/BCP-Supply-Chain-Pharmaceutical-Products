@@ -25,5 +25,6 @@ Improve inventory and logistics management.
 Provide real-time updates and insights for stakeholders.
 
 Technology used
+
 Ganache Blockchain network based on Ethereum using Truffle Suite, Solidity, Web3 JS integrated with ReactJS Website Dashboard 
 
